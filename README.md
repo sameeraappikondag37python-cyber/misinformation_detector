@@ -255,8 +255,6 @@ The project also demonstrates the complete workflow from dataset preparation and
   </a>
 </p>
 
-<p><em>Note: Upload your project report to the Community-Service repository using the exact filename <strong>misinformation_detector_Project_Report.pdf</strong>, or update the link above to match the actual PDF filename.</em></p>
-
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
 ## **References**
