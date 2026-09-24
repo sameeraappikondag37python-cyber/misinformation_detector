@@ -303,10 +303,8 @@ During my internship period, I actively participated in community-oriented activ
 
 <div align="center">
 
-<img src="https://github.com/sameeraappikondag37python-cyber/SAMEERA-APPIKONDA-Community-Service/blob/main/food_image.jpeg?raw=true" alt="Community Service Photo 1" width="41%">
-
-<img src="https://github.com/sameeraappikondag37python-cyber/SAMEERA-APPIKONDA-Community-Service/blob/main/plantting.jpeg?raw=true" alt="Community Service Photo 2" width="41%">
-
+<img src="https://github.com/sameeraappikondag37python-cyber/misinformation_detector/blob/main/assets/food_image.jpeg?raw=true" alt="Community Service Photo 1" width="41%">
+<img src="https://github.com/sameeraappikondag37python-cyber/misinformation_detector/blob/main/assets/plantting.jpeg?raw=true" alt="Community Service Photo 2" width="41%">
 </div>
 
 ---
